@@ -1,1 +1,1 @@
-# eks_aws
+AWS EKS cluster and worker setup using terraform provider!!!
